@@ -1,0 +1,17 @@
+{
+	"name": "app",
+	"version": "1.0.0",
+	"description": "Proyecto de prueba de npm",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Mario",
+	"license": "ISC",
+	"dependencies": {
+		"babel": "^6.23.0",
+		"bootstrap": "^5.2.0",
+		"jquery": "^3.6.0",
+		"momentjs": "^2.0.0"
+	}
+}
